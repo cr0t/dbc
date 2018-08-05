@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Rspec and its folks
+.ruby-version
+.ruby-gemset
