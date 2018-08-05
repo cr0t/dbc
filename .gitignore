@@ -54,3 +54,6 @@ dkms.conf
 # Rspec and its folks
 .ruby-version
 .ruby-gemset
+
+# Local DB files
+*.db
